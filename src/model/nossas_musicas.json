@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Love Me Like you do",
+        "artista": "Ellie Goulding",
+        "duracao": "04:15"
+    },
+    {
+        "id": 2,
+        "titulo": "O que eu também não entendo",
+        "artista": "Jota Quest",
+        "duracao": "04:09"
+    },
+    {
+        "id": 3,
+        "titulo": "Cara Estranho",
+        "artista": "Los Hermanos",
+        "duracao": "03:26"
+    },
+    {
+        "id": 4,
+        "titulo": "This is Me",
+        "artista": "O Rei do Show",
+        "duracao": "03:47"
+    }
+]

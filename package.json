@@ -1,0 +1,26 @@
+{
+  "name": "Servidor_Projeto_Pratico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aline160/Servidor_Projeto_Pratico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aline160/Servidor_Projeto_Pratico/issues"
+  },
+  "homepage": "https://github.com/Aline160/Servidor_Projeto_Pratico#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
