@@ -2,9 +2,12 @@
 
 ## Temas
 
-Escolha um dos temas abaixo com muito amor e carinho pois iremos desenvolver um projeto a partir deles.
+>Escolha um dos temas abaixo com muito amor e 
+>carinho pois iremos desenvolver um projeto a 
+>partir deles.
 
-Iremos descrever com calma e segurança cada um dos itens que esperamos que vocês desenvolvam, ok?
+>Iremos descrever com calma e segurança cada 
+>um dos itens que esperamos que vocês desenvolvam, ok?
 
 * Opção 1 - Jogos
 {
@@ -12,8 +15,7 @@ Iremos descrever com calma e segurança cada um dos itens que esperamos que voc�
   "titulo": "Fall Guys",
   "dataLancamento": "2020"
 }
-Contratos que deverão ser entregues
-Recurso	Descrição
+
 /jogos	Retorna todos os jogos
 /jogos/:id	Retorna apenas um jogo específico
 
@@ -24,16 +26,13 @@ Recurso	Descrição
   "titulo": "Evidências",
   "duracao": "04:39"
 }
-Contratos que deverão ser entregues
-Recurso	Descrição
+
 /musicas	Retorna todas as músicas
 /musicas/:id	Retorna apenas uma música específica
-Contratos opcionais
-Recurso	Descrição
+
 /artistas	Retorna a lista de artistas
 /artistas/:id	Retorna o artista e lista de músicas dele
-Contratos para ir ao infinito e além
-Recurso	Descrição
+
 /albuns	Retorna o álbum com a lista de músicas daquele album
 /albuns/[nome-do-album]	Retorna um álbum específico filtrado pelo nome
 
@@ -44,7 +43,6 @@ Séries
   "titulo": "Suits",
   "duracao": "9 temporadas"
 }
-Contratos que deverão ser entregues
-Recurso	Descrição
+
 /series	Retorna todas as séries
 /series/:id	Retorna apenas uma série específica
