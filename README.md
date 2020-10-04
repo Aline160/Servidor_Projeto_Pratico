@@ -1,6 +1,7 @@
 # Servidor_Projeto_Pratico
 
-!(https://cdn.pixabay.com/photo/2016/02/18/07/09/social-1206610_960_720.png)
+<img src="https://cdn.pixabay.com/photo/2016/02/18/07/09/social-1206610_960_720.png" alt="Menina com o computado festejando" />
+
 
 
 ## Temas
