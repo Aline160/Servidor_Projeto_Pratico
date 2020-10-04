@@ -83,3 +83,6 @@
 | ------------- | ----------------------------------- |
 | `/series`     | Retorna todas as séries             |
 | `/series/:id` | Retorna apenas uma série específica |
+
+
+Aline Pereira :two_hearts:
