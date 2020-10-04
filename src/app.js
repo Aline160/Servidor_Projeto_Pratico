@@ -3,6 +3,10 @@ const app = express();
 
 const nossas_musicas = require ('./routes/nossas_musicasRoutes');
 
+
+app.use(express.static('public'));
+
+
 app.use('/',nossas_musicas);
 
 app.get('*', (req,res) =>{
